@@ -1,0 +1,6 @@
+/home/talowe/rv1126b_aidemo/yolo26_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolo26_cam_optimized/./rknn_yolo26_cam
+/home/talowe/rv1126b_aidemo/yolo26_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolo26_cam_optimized/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/yolo26_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolo26_cam_optimized/model/coco_80_labels_list.txt
+/home/talowe/rv1126b_aidemo/yolo26_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolo26_cam_optimized/model/yolo26.rknn
+/home/talowe/rv1126b_aidemo/yolo26_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolo26_cam_optimized/lib/librknnrt.so
+/home/talowe/rv1126b_aidemo/yolo26_cam/cpp/install/rv1126b_linux_aarch64/rknn_yolo26_cam_optimized/lib/librga.so
